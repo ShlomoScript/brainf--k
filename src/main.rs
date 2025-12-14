@@ -1,3 +1,6 @@
+// SPDX-License-Identifier: MIT OR Apache-2.0
+// Copyright (c) 2025 Shlomo Ballew
+
 use brainf_ck::cli::App;
 use brainf_ck::{compile, BfError, Interpreter};
 use clap::Parser;

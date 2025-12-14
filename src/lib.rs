@@ -1,3 +1,6 @@
+// SPDX-License-Identifier: MIT OR Apache-2.0
+// Copyright (c) 2025 Shlomo Ballew
+
 pub mod cli;
 pub mod compile;
 pub mod error;

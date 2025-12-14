@@ -3,6 +3,7 @@ name = "brainf--k"
 version = "0.2.0"
 authors = ["Shlomo Ballew <gavib18@gmail.com>"]
 edition = "2024"
+license = "MIT OR Apache-2.0"
 
 [lib]
 name = "brainf_ck"
